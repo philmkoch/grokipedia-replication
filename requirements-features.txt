@@ -1,0 +1,7 @@
+# Only for features.py, which scores the corpus with the two language models (a GPU is advisable).
+# reproduce.py does not need it, because the scores are in features/.
+-r requirements.txt
+spacy==3.8.11
+en_core_web_sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.8.0/en_core_web_sm-3.8.0-py3-none-any.whl
+torch==2.10.0
+transformers==4.57.6

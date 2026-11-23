@@ -1,0 +1,15 @@
+# text corpora, fetched by download_data.py (1.4 GB and 42 MB)
+data/pairs_clean.parquet
+data/november/pairs_clean.parquet
+*.part
+
+# everything reproduce.py writes
+out/
+
+# raw scrape of collect.py (about 9 GB)
+raw/
+
+__pycache__/
+.venv/
+venv/
+.DS_Store

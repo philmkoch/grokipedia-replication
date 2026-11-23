@@ -1,0 +1,10 @@
+{
+  "pantheon": 126582,
+  "matched": 103093,
+  "retrieved": 103032,
+  "after_duplicates": 103025,
+  "after_mismatches": 102490,
+  "after_stubs": 99354,
+  "unique_grokipedia": 99086,
+  "final": 98013
+}

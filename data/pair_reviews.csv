@@ -1,0 +1,545 @@
+slug,name,sbert_cosine,decision,reason
+Fredi_(singer),Fredi,-0.0157,mismatch,different people
+Laurie_Scott_(footballer),Laurie Scott,-0.0058,mismatch,different people
+"Kike_(footballer,_born_November_1989)",Kike,-0.0029,mismatch,different people
+Matilda_of_Holstein,Matilda of Holstein,0.0028,mismatch,different people
+John_Evans_(archaeologist),John Evans,0.0343,mismatch,different people
+William_Smith_(lexicographer),William Smith,0.0514,mismatch,different people
+Bill_Davis_(musician),Bill Davis,0.0547,mismatch,different people
+Bernard_Williams_(sprinter),Bernard Williams,0.0697,mismatch,different people
+Bryan_Johnson_(singer),Bryan Johnson,0.0714,mismatch,different people
+David_Walker_(racing_driver),David Walker,0.073,mismatch,different people
+Catherine_McArthur,Catherine McArthur,0.079,mismatch,different people
+Ken_McArthur,Ken McArthur,0.0925,mismatch,different people
+"Philips_of_Marnix,_Lord_of_Saint-Aldegonde","Philips of Marnix, Lord of Saint-Aldegonde",0.1086,mismatch,different people
+Bob_Evans_(racing_driver),Bob Evans,0.1114,mismatch,different people
+John_Davis_(English_explorer),John Davis,0.1159,mismatch,different people
+Erik_Hansen_(canoeist),Erik Hansen,0.1173,mismatch,different people
+Giru_of_Baekje,Giru of Baekje,0.1197,mismatch,different people
+Justin_(consul_540),Justin,0.1223,mismatch,different people
+Poppy_Morgan,Poppy Morgan,0.127,mismatch,different people
+Simon_of_Kéza,Simon of Kéza,0.1301,mismatch,different people
+Sebastian_of_Portugal,Sebastian of Portugal,0.1316,mismatch,different people
+John_Nelson_(lawyer),John Nelson,0.1328,mismatch,different people
+Ninja_(streamer),Ninja,0.1374,mismatch,different people
+Jack_Hargreaves_(rower),Jack Hargreaves,0.1379,mismatch,different people
+Robert_Cullen_(footballer),Robert Cullen,0.1405,mismatch,different people
+Matilda_of_Boulogne,Matilda of Boulogne,0.1418,mismatch,different people
+Death_of_Hamza_Ali_Al-Khateeb,Death of Hamza Ali Al-Khateeb,0.142,mismatch,different people
+Pita_(footballer),Pita,0.144,mismatch,different people
+Chris_Thomas_(record_producer),Chris Thomas,0.1443,mismatch,different people
+James_Chapman_(rower),James Chapman,0.1453,mismatch,different people
+Eugène_Martin,Eugène Martin,0.1459,mismatch,different people
+Sophia_of_Holstein-Gottorp,Sophia of Holstein-Gottorp,0.1473,mismatch,different people
+Amen_(rock_musician),Amen,0.1529,mismatch,different people
+Bill_English_(actor),Bill English,0.153,mismatch,different people
+Elena_Neill,Elena Neill,0.1538,mismatch,different people
+Yolanda_of_Flanders,Yolanda of Flanders,0.1541,mismatch,different people
+Ben_Williams_(referee),Ben Williams,0.1551,mismatch,different people
+Trickster_(musician),Trickster,0.1569,mismatch,different people
+Paul_Fleming_(poet),Paul Fleming,0.1605,mismatch,different people
+"Henry_the_Mild,_Duke_of_Brunswick-Lüneburg","Henry the Mild, Duke of Brunswick-Lüneburg",0.1634,mismatch,different people
+"Nena_(footballer,_born_1923)",Nena,0.1649,mismatch,different people
+Hans_Haas,Hans Haas,0.165,mismatch,different people
+Jonathan_Williams_(racing_driver),Jonathan Williams,0.1653,mismatch,different people
+David_Smith_(canoeist),David Smith,0.1671,mismatch,different people
+William_Porter_(athlete),William Porter,0.1681,mismatch,different people
+Walter_of_Châtillon,Walter of Châtillon,0.1688,mismatch,different people
+"Ian_Smith_(footballer,_born_1998)",Ian Smith,0.1688,mismatch,different people
+John_Wright_(cardinal),John Wright,0.1702,mismatch,different people
+Lia_(singer),Lia,0.172,mismatch,different people
+"Alexis_(Spanish_footballer,_born_1985)",Alexis,0.1738,mismatch,different people
+L_(South_Korean_singer),L,0.1757,mismatch,different people
+John_Davis_(weightlifter),John Davis,0.1766,mismatch,different people
+Carl_Johnson_(athlete),Carl Johnson,0.1767,mismatch,different people
+Piti_(footballer),Piti,0.1773,mismatch,different people
+Nino_(footballer),Nino,0.1803,mismatch,different people
+John_McNally_(boxer),John McNally,0.1829,mismatch,different people
+Melli_(Spanish_footballer),Melli,0.1833,mismatch,different people
+Ian_Ho,Ian Ho,0.1833,mismatch,different people
+Richard_Hughes_(musician),Richard Hughes,0.1835,mismatch,different people
+Bernie_Shaw,Bernie Shaw,0.1856,mismatch,different people
+John_Kerr_(physicist),John Kerr,0.1876,mismatch,different people
+Edgar_Adams,Edgar Adams,0.1881,mismatch,different people
+Billy_Martin_(guitarist),Billy Martin,0.1881,mismatch,different people
+Daru_of_Baekje,Daru of Baekje,0.189,mismatch,different people
+Bert_Schneider_(boxer),Bert Schneider,0.1897,mismatch,different people
+Alexis_(poet),Alexis,0.19,mismatch,different people
+George_Hunter_(boxer),George Hunter,0.192,mismatch,different people
+"Henry_the_Middle,_Duke_of_Brunswick-Lüneburg","Henry the Middle, Duke of Brunswick-Lüneburg",0.1926,mismatch,different people
+Michael_Blackwood_(sprinter),Michael Blackwood,0.1943,mismatch,different people
+Carl_Ebert,Carl Ebert,0.1947,ok,same person verified
+Hyacinth_(Bichurin),Hyacinth,0.1958,mismatch,different people
+Michael_Rich_(cyclist),Michael Rich,0.1987,mismatch,different people
+Bulbul_(singer),Bulbul,0.1994,mismatch,different people
+John_Thomas_(athlete),John Thomas,0.1996,mismatch,different people
+"Walter_(footballer,_born_1912)",Walter,0.1996,mismatch,different people
+Ray_Stewart_(sprinter),Ray Stewart,0.2029,mismatch,different people
+Anis_Ayari,Anis Ayari,0.2039,mismatch,different people
+David_Gregory_(mathematician),David Gregory,0.2039,mismatch,different people
+Robert_Hedin,Robert Hedin,0.2073,mismatch,different people
+Apama,Apama,0.2075,mismatch,different people
+George_Baird_(athlete),George Baird,0.209,mismatch,different people
+Charles_King_(character_actor),Charles King,0.2093,mismatch,different people
+Christian_Matras_(poet),Christian Matras,0.2096,mismatch,different people
+Christopher_Williams_(sprinter),Christopher Williams,0.2121,mismatch,different people
+Mark_Hunter_(rower),Mark Hunter,0.2123,mismatch,different people
+John_Wallace_(rower),John Wallace,0.2131,mismatch,different people
+Don_McNeill_(tennis),Don McNeill,0.2133,mismatch,different people
+Kevin_Reynolds_(figure_skater),Kevin Reynolds,0.2135,mismatch,different people
+Louis_of_Granada,Louis of Granada,0.215,mismatch,different people
+Beth_(singer),Beth,0.2156,mismatch,different people
+Charles_King_(athlete),Charles King,0.2158,mismatch,different people
+John_Bray_(athlete),John Bray,0.2166,mismatch,different people
+Martin_Koch_(ski_jumper),Martin Koch,0.217,mismatch,different people
+John_Hartley_(tennis),John Hartley,0.2179,mismatch,different people
+Death_of_Khaled_Mohamed_Saeed,Death of Khaled Mohamed Saeed,0.2182,mismatch,different people
+David_Hampshire,David Hampshire,0.2201,mismatch,different people
+John_Powell_(athlete),John Powell,0.2202,mismatch,different people
+James_Wilby_(swimmer),James Wilby,0.2211,mismatch,different people
+Henry_of_Ghent,Henry of Ghent,0.2214,mismatch,different people
+"Marcos_(footballer,_born_1974)",Marcos,0.2214,mismatch,different people
+Adelaide_of_Rheinfelden,Adelaide of Rheinfelden,0.2223,mismatch,different people
+Ben_Adams_(track_and_field),Ben Adams,0.2224,mismatch,different people
+Tom_Taylor_(soccer),Tom Taylor,0.2242,mismatch,different people
+Christian_Vander_(footballer),Christian Vander,0.2245,mismatch,different people
+Matt_Fallon,Matt Fallon,0.225,mismatch,different people
+Brad_Jones_(footballer),Brad Jones,0.2252,mismatch,different people
+Vladimir_Nikitin_(boxer),Vladimir Nikitin,0.2256,mismatch,different people
+Dynamo_(magician),Dynamo,0.2257,mismatch,different people
+Sophia_of_Hungary,Sophia of Hungary,0.2264,mismatch,different people
+Walter_Graf_(bobsledder),Walter Graf,0.2273,mismatch,different people
+James_Tomkins_(rower),James Tomkins,0.2275,mismatch,different people
+Alexander_Hall_(soccer),Alexander Hall,0.2281,mismatch,different people
+David_Gill_(astronomer),David Gill,0.2287,mismatch,different people
+Eugène_Simon,Eugène Simon,0.2304,mismatch,different people
+Bronisław_Malinowski_(athlete),Bronisław Malinowski,0.231,mismatch,different people
+Tom_Murray_(New_Zealand_rower),Tom Murray,0.2313,mismatch,different people
+William_Smith_(mariner),William Smith,0.232,mismatch,different people
+Charles_Bennett_(athlete),Charles Bennett,0.2334,mismatch,different people
+Ava_(poet),Ava,0.2335,mismatch,different people
+Penny_Pax,Penny Pax,0.2338,mismatch,different people
+John_Taylor_(racing_driver),John Taylor,0.2339,mismatch,different people
+Hans_Bauer_(footballer),Hans Bauer,0.2339,mismatch,different people
+"Helena_of_Bulgaria,_Empress_of_Serbia","Helena of Bulgaria, Empress of Serbia",0.2341,mismatch,different people
+Rôni,Rôni,0.2353,mismatch,different people
+Thomas_Burke_(athlete),Thomas Burke,0.2369,mismatch,different people
+John_Phillips_(geologist),John Phillips,0.2371,mismatch,different people
+Julio_Pérez,Julio Pérez,0.2372,mismatch,different people
+Caroline_Graham,Caroline Graham,0.2379,mismatch,different people
+Matt_Vogel_(swimmer),Matt Vogel,0.2379,mismatch,different people
+Otto_Nilsson,Otto Nilsson,0.2388,mismatch,different people
+"James_Jones_(footballer,_born_1873)",James Jones,0.2391,mismatch,different people
+Richard_Allen_(field_hockey),Richard Allen,0.2403,mismatch,different people
+Johannes_Ludwig,Johannes Ludwig,0.2405,mismatch,different people
+William_Gilmore_(rower),William Gilmore,0.2419,mismatch,different people
+Erich_Schmitt,Erich Schmitt,0.2426,mismatch,different people
+Love_(footballer),Love,0.243,mismatch,different people
+Bill_Miller_(pole_vault),Bill Miller,0.2431,mismatch,different people
+Richard_Schmidt_(rower),Richard Schmidt,0.2442,mismatch,different people
+Lydia_(singer),Lydia,0.2453,mismatch,different people
+Robert_Benson_(ice_hockey),Robert Benson,0.2459,mismatch,different people
+Steve_Clark_(swimmer),Steve Clark,0.2463,mismatch,different people
+Aisha_(Latvian_singer),Aisha,0.2465,mismatch,different people
+"Lolo_(footballer,_born_1984)",Lolo,0.2475,mismatch,different people
+Roy_Andersson_(footballer),Roy Andersson,0.2477,mismatch,different people
+Jason_Moore_(Wikipedia_editor),Jason Moore,0.2481,mismatch,different people
+David_Calder_(rower),David Calder,0.2484,mismatch,different people
+Matt_McGrath,Matt McGrath,0.249,mismatch,different people
+Patrick_Leahy_(athlete),Patrick Leahy,0.249,mismatch,different people
+Satoshi_Miyagawa,Satoshi Miyagawa,0.2499,mismatch,different people
+Tim_Burke_(biathlete),Tim Burke,0.2502,mismatch,different people
+"Alfredo_Hernández_(footballer,_born_1935)",Alfredo Hernández,0.2506,mismatch,different people
+William_Thompson_(rower),William Thompson,0.2522,mismatch,different people
+Thomas_Wright_(astronomer),Thomas Wright,0.2527,mismatch,different people
+Joe_Williams_(Cook_Islands_politician),Joe Williams,0.2531,mismatch,different people
+Julián_Simón,Julián Simón,0.2531,mismatch,different people
+Nariz_(footballer),Nariz,0.2535,mismatch,different people
+Jiří_Pešek,Jiří Pešek,0.2535,mismatch,different people
+Maurice_Greene_(composer),Maurice Greene,0.254,mismatch,different people
+Daniel_Kelly_(athlete),Daniel Kelly,0.2553,mismatch,different people
+David_Hammond_(swimmer),David Hammond,0.2557,mismatch,different people
+Peter_Elliott_(athlete),Peter Elliott,0.2558,mismatch,different people
+Ay,Ay,0.2564,mismatch,different people
+Simon_Leung,Simon Leung,0.2572,mismatch,different people
+David_Adams_(tennis),David Adams,0.2577,mismatch,different people
+Paul_Masson_(cyclist),Paul Masson,0.259,mismatch,different people
+"Thomas_of_Woodstock,_1st_Duke_of_Gloucester","Thomas of Woodstock, 1st Duke of Gloucester",0.259,mismatch,different people
+Andrew_Wilson_(swimmer),Andrew Wilson,0.2595,mismatch,different people
+Gabriel_Castillo,Gabriel Castillo,0.2598,mismatch,different people
+Flood_(producer),Flood,0.2599,mismatch,different people
+Joan_Harrison_(swimmer),Joan Harrison,0.262,mismatch,different people
+Patric_(footballer),Patric,0.2628,mismatch,different people
+William_Jones_(rower),William Jones,0.2628,mismatch,different people
+Frank_Muller_(astronomer),Frank Muller,0.2634,mismatch,different people
+David_Carter,David Carter,0.2643,mismatch,different people
+Edwin_Mills_(athlete),Edwin Mills,0.2643,mismatch,different people
+Helena_(daughter_of_Alypius),Helena,0.265,mismatch,different people
+René_Schneider_(footballer),René Schneider,0.2651,mismatch,different people
+Adasi_(Assyria),Adasi,0.2651,mismatch,different people
+Anders_Petersen_(boxer),Anders Petersen,0.2662,mismatch,different people
+Iris_(singer),Iris,0.267,mismatch,different people
+James_Ivory_(mathematician),James Ivory,0.2675,mismatch,different people
+Hiroshi_Kobayashi_(footballer),Hiroshi Kobayashi,0.2677,mismatch,different people
+Scott_Vincent,Scott Vincent,0.2678,mismatch,different people
+Roger_of_Salerno,Roger of Salerno,0.2678,mismatch,different people
+Jason_(Spanish_footballer),Jason,0.2683,mismatch,different people
+Susan_George_(political_scientist),Susan George,0.2686,mismatch,different people
+Anna_Maria_of_the_Palatinate,Anna Maria of the Palatinate,0.269,mismatch,different people
+Paul_Winter_(athlete),Paul Winter,0.2696,mismatch,different people
+John_Porter_(ice_hockey),John Porter,0.2698,mismatch,different people
+Nick_Winter,Nick Winter,0.27,mismatch,different people
+Stachys_the_Apostle,Stachys the Apostle,0.27,mismatch,different people
+Eric_Peterson_(musician),Eric Peterson,0.2701,mismatch,different people
+Bill_Wheatley,Bill Wheatley,0.2705,mismatch,different people
+Gitanjali_Rao,Gitanjali Rao,0.272,mismatch,different people
+Christine_Day,Christine Day,0.2724,mismatch,different people
+Asin_of_Baekje,Asin of Baekje,0.2724,mismatch,different people
+Lou_(German_singer),Lou,0.2727,mismatch,different people
+James_Arthur_(mathematician),James Arthur,0.2738,mismatch,different people
+John_Miller_(rower),John Miller,0.274,mismatch,different people
+Felix_Bernstein_(mathematician),Felix Bernstein,0.2745,mismatch,different people
+Helena_(empress),Helena,0.2749,mismatch,different people
+John_Flanagan_(athlete),John Flanagan,0.2754,mismatch,different people
+George_Albert_Smith_(film_pioneer),George Albert Smith,0.276,mismatch,different people
+Murder_of_Emily_Armstrong,Murder of Emily Armstrong,0.2773,mismatch,different people
+Nicole_(German_singer),Nicole,0.2775,mismatch,different people
+Kurt_Thomas_(composer),Kurt Thomas,0.2779,mismatch,different people
+James_Mason_(chess_player),James Mason,0.2782,mismatch,different people
+Robert_Smith_(Cabinet_member),Robert Smith,0.2782,mismatch,different people
+Wolfgang_Paul_(footballer),Wolfgang Paul,0.2786,mismatch,different people
+Eduardo_Risso_(rower),Eduardo Risso,0.2789,mismatch,different people
+Rhys_Williams_(hurdler),Rhys Williams,0.2792,mismatch,different people
+John_Lynch_(New_Hampshire),John Lynch,0.2806,mismatch,different people
+"Christina_of_Denmark,_Queen_of_Sweden","Christina of Denmark, Queen of Sweden",0.2811,mismatch,different people
+Princess_Ida_of_Anhalt-Bernburg-Schaumburg-Hoym,Princess Ida of Anhalt-Bernburg-Schaumburg-Hoym,0.2812,mismatch,different people
+"David_Jones_(footballer,_born_1984)",David Jones,0.2816,mismatch,different people
+James_Thompson_(rower),James Thompson,0.2819,mismatch,different people
+Solomon_(pianist),Solomon,0.2825,mismatch,different people
+Petar_Petrov_(sprinter),Petar Petrov,0.2825,mismatch,different people
+William_Stevenson_(athlete),William Stevenson,0.2828,mismatch,different people
+Tom_Richards_(athlete),Tom Richards,0.2832,mismatch,different people
+Melanie_Wilson_(rower),Melanie Wilson,0.2834,mismatch,different people
+Gary_Reed_(athlete),Gary Reed,0.2834,mismatch,different people
+Michael_Gruber_(skier),Michael Gruber,0.2835,mismatch,different people
+José_Figueroa_(footballer),José Figueroa,0.2839,mismatch,different people
+Chris_Thompson,Chris Thompson,0.284,mismatch,different people
+Pat_McDonald_(athlete),Pat McDonald,0.2843,mismatch,different people
+Will_Ryan_(sailor),Will Ryan,0.2845,mismatch,different people
+David_Jacobs_(Welsh_athlete),David Jacobs,0.2846,mismatch,different people
+Emma_(wrestler),Emma,0.2859,mismatch,different people
+Nathan_Smith_(biathlete),Nathan Smith,0.286,mismatch,different people
+David_Jenkins_(figure_skater),David Jenkins,0.2877,mismatch,different people
+Andrew_Cooper,Andrew Cooper,0.289,mismatch,different people
+"John_Doyle_(soccer,_born_1966)",John Doyle,0.2891,mismatch,different people
+Louis_of_Cyprus,Louis of Cyprus,0.2895,mismatch,different people
+Jack_London_(athlete),Jack London,0.2896,mismatch,different people
+Richard_Murphy_(rower),Richard Murphy,0.2898,mismatch,different people
+Mohammed_Hassan,Mohammed Hassan,0.291,mismatch,different people
+Alexander_Martin,Alexander Martin,0.2912,mismatch,different people
+Jesse_Williams_(high_jumper),Jesse Williams,0.2918,mismatch,different people
+Chika_(footballer),Chika,0.2919,mismatch,different people
+Martin_Thomas,Martin Thomas,0.2922,mismatch,different people
+Paul_Manning_(cyclist),Paul Manning,0.2934,mismatch,different people
+Dean_Crawford,Dean Crawford,0.2935,mismatch,different people
+Peter_Taylor_(rower),Peter Taylor,0.2939,mismatch,different people
+"Thomas_of_Lancaster,_1st_Duke_of_Clarence","Thomas of Lancaster, 1st Duke of Clarence",0.2941,mismatch,different people
+Michael_Foreman_(astronaut),Michael Foreman,0.2942,mismatch,different people
+Ilan_(footballer),Ilan,0.2943,mismatch,different people
+Chris_Tomlinson,Chris Tomlinson,0.295,mismatch,different people
+"Henry_of_Grosmont,_1st_Duke_of_Lancaster","Henry of Grosmont, 1st Duke of Lancaster",0.2951,mismatch,different people
+Abbas_(photographer),Abbas,0.2953,mismatch,different people
+Jan_Schmid,Jan Schmid,0.2954,mismatch,different people
+Jack_Williams,Jack Williams,0.2956,mismatch,different people
+Michael_Fitzgerald_(footballer),Michael Fitzgerald,0.2958,mismatch,different people
+Ken_Downing,Ken Downing,0.2959,mismatch,different people
+Daniel_Martin,Daniel Martin,0.296,mismatch,different people
+Víctor_Núñez,Víctor Núñez,0.2961,mismatch,different people
+William_Wilson_(aquatics),William Wilson,0.2963,mismatch,different people
+Michael_Mann,Michael Mann,0.2971,mismatch,different people
+Luis_Otero_(footballer),Luis Otero,0.2978,mismatch,different people
+John_Derbyshire_(swimmer),John Derbyshire,0.2989,mismatch,different people
+Jessica_Turner,Jessica Turner,0.2991,mismatch,different people
+Guido_Messina,Guido Messina,0.2994,mismatch,different people
+Carlos_Torres_(astronomer),Carlos Torres,0.2995,mismatch,different people
+Stephanie_Davis,Stephanie Davis,0.3005,mismatch,different people
+Arthur_Schnabel,Arthur Schnabel,0.3009,mismatch,different people
+Emilia_(Bulgarian_singer),Emilia,0.3014,mismatch,different people
+Christian_Lara_(footballer),Christian Lara,0.3021,mismatch,different people
+Emmy_(Armenian_singer),Emmy,0.3022,mismatch,different people
+Ryan_Cox,Ryan Cox,0.3026,mismatch,different people
+Juan_Carlos_Medina,Juan Carlos Medina,0.3038,mismatch,different people
+George_Turner_(artist),George Turner,0.3038,mismatch,different people
+William_Hudson_(botanist),William Hudson,0.3053,mismatch,different people
+Helen_of_Sweden_(12th_century),Helen of Sweden,0.3056,mismatch,different people
+Miguel_Martins,Miguel Martins,0.3058,mismatch,different people
+Thaddeus_of_Edessa,Thaddeus of Edessa,0.3069,mismatch,different people
+Allan_Stone,Allan Stone,0.3084,mismatch,different people
+Patricia_Jones_(sprinter),Patricia Jones,0.3087,mismatch,different people
+William_Ferguson_(racing_driver),William Ferguson,0.3092,mismatch,different people
+Carlos_Jiménez,Carlos Jiménez,0.3101,mismatch,different people
+Poppy_(entertainer),Poppy,0.3104,mismatch,different people
+Takeo_Takahashi_(footballer),Takeo Takahashi,0.3105,mismatch,different people
+Christopher_Sutton_(cyclist),Christopher Sutton,0.3105,mismatch,different people
+James_Palmer,James Palmer,0.3111,mismatch,different people
+Martin_Brunner,Martin Brunner,0.3112,mismatch,different people
+James_Fox_(singer),James Fox,0.3112,mismatch,different people
+Helena_of_Denmark,Helena of Denmark,0.3114,mismatch,different people
+Charles_Greene_(athlete),Charles Greene,0.3118,mismatch,different people
+Luna_(singer),Luna,0.3127,mismatch,different people
+"Blanca_of_Navarre,_Queen_of_Castile","Blanca of Navarre, Queen of Castile",0.3129,mismatch,different people
+Rafael_Trujillo_(sailor),Rafael Trujillo,0.3129,mismatch,different people
+Koichi_Sugiyama_(footballer),Koichi Sugiyama,0.3134,mismatch,different people
+Anna_Russell_(botanist),Anna Russell,0.3138,mismatch,different people
+Joshua_Booth,Joshua Booth,0.314,mismatch,different people
+John_Richardson_(naturalist),John Richardson,0.3146,mismatch,different people
+Chris_Lawrence_(racing_driver),Chris Lawrence,0.3146,mismatch,different people
+Ado_(footballer),Ado,0.3147,mismatch,different people
+Michael_May_(racing_driver),Michael May,0.3148,mismatch,different people
+John_Major_(philosopher),John Major,0.3154,mismatch,different people
+Carl_Abrahamsson,Carl Abrahamsson,0.3157,mismatch,different people
+Lü_Yang,Lü Yang,0.3176,mismatch,different people
+Elizabeth_(biblical_figure),Elizabeth,0.3183,mismatch,different people
+"Marc_Vidal_(footballer,_born_1991)",Marc Vidal,0.3187,mismatch,different people
+Benjamin_Daniel,Benjamin Daniel,0.3191,mismatch,different people
+Arthur_Blake_(distance_runner),Arthur Blake,0.3196,mismatch,different people
+Vicar_(cartoonist),Vicar,0.3197,mismatch,different people
+Hiroki_Azuma_(footballer),Hiroki Azuma,0.3212,mismatch,different people
+María_López,María López,0.3219,mismatch,different people
+Max_Adler_(Marxist),Max Adler,0.3238,mismatch,different people
+Brian_Baker_(tennis),Brian Baker,0.3259,mismatch,different people
+Pablo_Maqueda,Pablo Maqueda,0.3259,mismatch,different people
+Isabelle_of_France_(saint),Isabelle of France,0.3262,mismatch,different people
+Robert_Reid_(American_painter),Robert Reid,0.3262,mismatch,different people
+Dervan,Dervan,0.3264,ok,same person verified
+James_Meredith_(footballer),James Meredith,0.3273,mismatch,different people
+Sandie_Jones,Sandie Jones,0.3283,mismatch,different people
+Princess_Ida_of_Schaumburg-Lippe,Princess Ida of Schaumburg-Lippe,0.3283,mismatch,different people
+Denis_Davydov_(footballer),Denis Davydov,0.3287,mismatch,different people
+Tom_Sandberg,Tom Sandberg,0.3288,mismatch,different people
+Michael_Beauchamp,Michael Beauchamp,0.3299,mismatch,different people
+Joseph_Meyer_(publisher),Joseph Meyer,0.3301,mismatch,different people
+Diane_Foster,Diane Foster,0.3305,mismatch,different people
+Jorge_Sarmiento,Jorge Sarmiento,0.3308,mismatch,different people
+"Sergio_(footballer,_born_1976)",Sergio,0.3308,mismatch,different people
+George_Parker_(racewalker),George Parker,0.3311,mismatch,different people
+Samuel_Arnold_(composer),Samuel Arnold,0.3312,mismatch,different people
+Charles_Perrin,Charles Perrin,0.3314,mismatch,different people
+Don_Thompson_(racewalker),Don Thompson,0.3315,mismatch,different people
+Robert_Wagner_(cyclist),Robert Wagner,0.3317,mismatch,different people
+Herbert_Gruber,Herbert Gruber,0.3323,mismatch,different people
+"Ermesinde_of_Luxembourg,_Countess_of_Namur","Ermesinde of Luxembourg, Countess of Namur",0.3325,mismatch,different people
+Wilhem_de_Haan,Wilhem de Haan,0.3326,mismatch,different people
+Kali_(footballer),Kali,0.3327,mismatch,different people
+Donald_Johnston_(rower),Donald Johnston,0.3336,mismatch,different people
+Barbara_of_Brandenburg_(1464–1515),Barbara of Brandenburg,0.3343,mismatch,different people
+Colin_Bell,Colin Bell,0.3346,mismatch,different people
+Richard_Bright_(physician),Richard Bright,0.3348,mismatch,different people
+Zhang_Xin_(skier),Zhang Xin,0.3351,mismatch,different people
+Jo_Vonlanthen,Jo Vonlanthen,0.3352,mismatch,different people
+Fofão_(volleyball_player),Fofão,0.3352,mismatch,different people
+Francis_Lee,Francis Lee,0.3358,mismatch,different people
+Andreas_Nilsson_(handballer),Andreas Nilsson,0.3366,mismatch,different people
+Agnes_of_Austria_(1281–1364),Agnes of Austria,0.3367,mismatch,different people
+Thomas_Hill_(painter),Thomas Hill,0.3378,mismatch,different people
+Eduardo_Marques,Eduardo Marques,0.3379,mismatch,different people
+John_Adair,John Adair,0.3383,mismatch,different people
+"Yusuke_Tanaka_(footballer,_born_April_1986)",Yusuke Tanaka,0.3384,mismatch,different people
+Joe_Kelly_(racing_driver),Joe Kelly,0.3386,mismatch,different people
+Masato_Sakai_(swimmer),Masato Sakai,0.339,mismatch,different people
+Ștefan_Rusu,Ștefan Rusu,0.339,mismatch,different people
+Giuseppe_Leonardi,Giuseppe Leonardi,0.3396,mismatch,different people
+Chi_Cheng_(athlete),Chi Cheng,0.3401,mismatch,different people
+Per_Nilsson_(gymnast),Per Nilsson,0.3413,mismatch,different people
+Marc_Lawrence,Marc Lawrence,0.3417,ok,same person verified
+Mike_Lewis_(rower),Mike Lewis,0.3419,mismatch,different people
+"Francisco_(footballer,_born_1962)",Francisco,0.3421,mismatch,different people
+Kentaro_Sato_(footballer),Kentaro Sato,0.3425,mismatch,different people
+Robert_Förster,Robert Förster,0.3432,mismatch,different people
+Andy_Williams_(Jamaican_footballer),Andy Williams,0.3438,mismatch,different people
+Kei_Ishikawa,Kei Ishikawa,0.3438,mismatch,different people
+Cecilia_Jonsson,Cecilia Jonsson,0.344,mismatch,different people
+Wang_Tao_(table_tennis),Wang Tao,0.3442,mismatch,different people
+Sergey_Kozlov_(politician),Sergey Kozlov,0.3443,mismatch,different people
+Masayuki_Ochiai_(footballer),Masayuki Ochiai,0.3444,mismatch,different people
+Stephen_Jones,Stephen Jones,0.3447,mismatch,different people
+John_Leslie_(physicist),John Leslie,0.3447,mismatch,different people
+Fernanda_Martins,Fernanda Martins,0.3453,mismatch,different people
+Tsukasa_Yoshida,Tsukasa Yoshida,0.3454,mismatch,different people
+Henri_Cohen_(water_polo),Henri Cohen,0.3458,mismatch,different people
+Roberto_Miranda,Roberto Miranda,0.3461,mismatch,different people
+Jessica_Hansen,Jessica Hansen,0.3465,mismatch,different people
+Helen_of_Anjou,Helen of Anjou,0.3469,mismatch,different people
+Jacob_Saunders,Jacob Saunders,0.347,mismatch,different people
+Tommy_Banks_(footballer),Tommy Banks,0.3479,mismatch,different people
+Ian_Stewart_(runner),Ian Stewart,0.348,mismatch,different people
+Robert_Lindsay_(athlete),Robert Lindsay,0.3482,mismatch,different people
+Ross_Taylor_(ice_hockey),Ross Taylor,0.3483,mismatch,different people
+David_Davis_(handballer),David Davis,0.3484,mismatch,different people
+"Charlotte_of_Bourbon,_Queen_of_Cyprus","Charlotte of Bourbon, Queen of Cyprus",0.3489,mismatch,different people
+Shun_Nakamura_(footballer),Shun Nakamura,0.3492,mismatch,different people
+Brian_Lewis_(sprinter),Brian Lewis,0.3494,mismatch,different people
+Carlos_Vidal,Carlos Vidal,0.35,mismatch,different people
+John_Carney_(politician),John Carney,0.3503,mismatch,different people
+Regina_(Slovenian_singer),Regina,0.3505,mismatch,different people
+John_Nicholson_(racing_driver),John Nicholson,0.3505,mismatch,different people
+Craig_Thomson_(referee),Craig Thomson,0.3508,mismatch,different people
+Donald_Scott,Donald Scott,0.3511,mismatch,different people
+Ma_Ning_(referee),Ma Ning,0.3519,mismatch,different people
+Gordon_Thomas_(cyclist),Gordon Thomas,0.3521,mismatch,different people
+William_Smith_(wrestler),William Smith,0.3523,mismatch,different people
+Robert_Alt,Robert Alt,0.3527,mismatch,different people
+Henry_Russell_(athlete),Henry Russell,0.3528,mismatch,different people
+Kazuo_Shimizu,Kazuo Shimizu,0.3536,mismatch,different people
+Kenzo_Suzuki_(astronomer),Kenzo Suzuki,0.3542,mismatch,different people
+"Carlos_Contreras_(footballer,_born_1938)",Carlos Contreras,0.3548,mismatch,different people
+James_Gunn_(astronomer),James Gunn,0.3548,mismatch,different people
+Curtis_Stevens,Curtis Stevens,0.3552,mismatch,different people
+Thomas_Andrews_(scientist),Thomas Andrews,0.3558,mismatch,different people
+"Andreas_Johansson_(footballer,_born_1978)",Andreas Johansson,0.3573,mismatch,different people
+Wilhelm_Müller_(handballer),Wilhelm Müller,0.358,mismatch,different people
+Betty_Taylor_(athlete),Betty Taylor,0.3583,mismatch,different people
+Patrick_Ryan_(athlete),Patrick Ryan,0.3585,mismatch,different people
+Brian_Price_(rowing),Brian Price,0.3585,mismatch,different people
+Xavier_de_Maistre,Xavier de Maistre,0.3588,mismatch,different people
+Rubén_Gallego,Rubén Gallego,0.3592,mismatch,different people
+Michael_Lang_(footballer),Michael Lang,0.3594,mismatch,different people
+Paul_England,Paul England,0.3599,mismatch,different people
+Kiko_(Spanish_footballer),Kiko,0.3599,mismatch,different people
+Colin_Davis_(racing_driver),Colin Davis,0.3604,mismatch,different people
+Anna_Maria_of_Brunswick-Calenberg-Göttingen,Anna Maria of Brunswick-Calenberg-Göttingen,0.3606,mismatch,different people
+Lana_(wrestler),Lana,0.3609,mismatch,different people
+"Brad_Smith_(footballer,_born_1994)",Brad Smith,0.3617,mismatch,different people
+Li_Ling_(shot_putter),Li Ling,0.3621,mismatch,different people
+Thomas_Henderson_(astronomer),Thomas Henderson,0.3625,mismatch,different people
+Polykleitos_the_Younger,Polykleitos the Younger,0.3637,ok,same person verified
+Zequinha,Zequinha,0.3639,mismatch,different people
+Takafumi_Hori,Takafumi Hori,0.364,mismatch,different people
+Peter_Ryan_(racing_driver),Peter Ryan,0.3641,mismatch,different people
+Charles_Mayer_(boxer),Charles Mayer,0.3642,mismatch,different people
+Ryan_Owens_(cyclist),Ryan Owens,0.3646,mismatch,different people
+Eric_Garcia,Eric Garcia,0.3648,mismatch,different people
+Anthony_Carter,Anthony Carter,0.365,mismatch,different people
+Joshua_Green,Joshua Green,0.3658,mismatch,different people
+Pedro_Chaves,Pedro Chaves,0.3661,mismatch,different people
+James_Wilson_(athlete),James Wilson,0.3663,mismatch,different people
+Juliana_Machado,Juliana Machado,0.3668,mismatch,different people
+André_Egli,André Egli,0.3669,mismatch,different people
+Satoru_Kobayashi_(footballer),Satoru Kobayashi,0.3679,mismatch,different people
+Martin_Schmidt_(football_manager),Martin Schmidt,0.3683,mismatch,different people
+John_Collins,John Collins,0.3683,mismatch,different people
+Thomas_of_Britain,Thomas of Britain,0.3685,mismatch,different people
+William_Henry_(chemist),William Henry,0.3687,mismatch,different people
+Rachael_Taylor_(rower),Rachael Taylor,0.3689,mismatch,different people
+Alex_Wilson_(Canadian_sprinter),Alex Wilson,0.3692,mismatch,different people
+James_Hall,James Hall,0.3696,mismatch,different people
+Václav_Mottl,Václav Mottl,0.3698,mismatch,different people
+Charles_Moore_(athlete),Charles Moore,0.3702,mismatch,different people
+Chris_Pontius_(soccer),Chris Pontius,0.3703,mismatch,different people
+Hans_Meyer_(geologist),Hans Meyer,0.3703,mismatch,different people
+William_Carr_(rower),William Carr,0.3704,mismatch,different people
+Justin_Douglas,Justin Douglas,0.3706,mismatch,different people
+Hideo_Yoshizawa_(footballer),Hideo Yoshizawa,0.371,mismatch,different people
+Kazuya_Murata_(footballer),Kazuya Murata,0.3711,mismatch,different people
+Tomoyuki_Higuchi,Tomoyuki Higuchi,0.3712,mismatch,different people
+Li_Ching_(table_tennis),Li Ching,0.3716,mismatch,different people
+Chuck_Arnold,Chuck Arnold,0.3716,mismatch,different people
+Chris_Brown_(sprinter),Chris Brown,0.3717,mismatch,different people
+John_Davies_(swimmer),John Davies,0.3727,mismatch,different people
+Douglas_Payne,Douglas Payne,0.3728,mismatch,different people
+Kyle_Hamilton_(rower),Kyle Hamilton,0.3729,mismatch,different people
+Ryan_Newman_(actress),Ryan Newman,0.3735,mismatch,different people
+Velvet_(singer),Velvet,0.3737,mismatch,different people
+Louis_the_Springer,Louis the Springer,0.3744,mismatch,different people
+Wang_Xu_(wrestler),Wang Xu,0.3748,mismatch,different people
+David_Bruce_(microbiologist),David Bruce,0.3748,mismatch,different people
+David_Morris_(skier),David Morris,0.375,mismatch,different people
+Leandro_Vieira_(footballer),Leandro Vieira,0.3751,mismatch,different people
+Ian_Stewart_(racing_driver),Ian Stewart,0.3752,mismatch,different people
+Farah_(actress),Farah,0.3755,mismatch,different people
+Dave_Power_(runner),Dave Power,0.3756,mismatch,different people
+George_Nash_(rower),George Nash,0.3759,mismatch,different people
+Gisela_of_Burgundy,Gisela of Burgundy,0.3763,mismatch,different people
+Joe_Hill,Joe Hill,0.3765,mismatch,different people
+Michael_Matthews,Michael Matthews,0.3766,mismatch,different people
+Dave_Morgan_(racing_driver),Dave Morgan,0.3767,mismatch,different people
+Nicole_(Chilean_singer),Nicole,0.377,mismatch,different people
+Philippe_Villiers_de_L'Isle-Adam,Philippe Villiers de L'Isle-Adam,0.3779,ok,same person verified
+Werner_Meyer_(handballer),Werner Meyer,0.3784,mismatch,different people
+Takashi_Amano_(footballer),Takashi Amano,0.3786,mismatch,different people
+Karma_(archer),Karma,0.3789,mismatch,different people
+Jens_Martin_Knudsen_(footballer),Jens Martin Knudsen,0.3792,mismatch,different people
+Tom_Wilson_(record_producer),Tom Wilson,0.3794,mismatch,different people
+Clyde_King_(rower),Clyde King,0.3803,mismatch,different people
+Erik_Norberg,Erik Norberg,0.3803,mismatch,different people
+Tiko_(footballer),Tiko,0.3807,mismatch,different people
+Michael_Barry_(cyclist),Michael Barry,0.3811,mismatch,different people
+Frans_Verbeeck_(cyclist),Frans Verbeeck,0.3812,mismatch,different people
+Reba_Stewart,Reba Stewart,0.3813,mismatch,different people
+George_Simpson_(sprinter),George Simpson,0.3817,mismatch,different people
+Edward_Moore_(rower),Edward Moore,0.382,mismatch,different people
+Robin_Johnson_(disambiguation),Robin Johnson,0.3832,mismatch,different people
+Sam_Webb,Sam Webb,0.3832,mismatch,different people
+Jordan_of_Saxony,Jordan of Saxony,0.3839,mismatch,different people
+Aleksandr_Martynov_(Transnistrian_politician),Aleksandr Martynov,0.3844,mismatch,different people
+Josef_Peters_(racing_driver),Josef Peters,0.3844,mismatch,different people
+Matthew_Taylor_(footballer),Matthew Taylor,0.3846,mismatch,different people
+Mohamed_Mrabet_(canoeist),Mohamed Mrabet,0.3848,mismatch,different people
+Anthony_of_Saxony,Anthony of Saxony,0.3849,mismatch,different people
+Lawrence_Shields,Lawrence Shields,0.3857,mismatch,different people
+Chris_Irwin,Chris Irwin,0.3858,mismatch,different people
+Joseph_Cafasso,Joseph Cafasso,0.3862,mismatch,different people
+Friedrich_Maurer_(handballer),Friedrich Maurer,0.3864,mismatch,different people
+Rafael_Pereira_(hurdler),Rafael Pereira,0.3865,mismatch,different people
+Marco_Grassi,Marco Grassi,0.3868,mismatch,different people
+Clayton_Lewis,Clayton Lewis,0.3871,mismatch,different people
+Noronha_(footballer),Noronha,0.3873,mismatch,different people
+Greg_(cartoonist),Greg,0.3874,mismatch,different people
+Charlie_Murphy,Charlie Murphy,0.3874,mismatch,different people
+"Dani_(footballer,_born_1951)",Dani,0.3875,mismatch,different people
+John_Boland_(Irish_nationalist_politician),John Boland,0.3878,mismatch,different people
+Hal_Brown_(athlete),Hal Brown,0.3883,mismatch,different people
+John_Ellis_(naturalist),John Ellis,0.3884,mismatch,different people
+Nina_(Spanish_singer),Nina,0.3884,mismatch,different people
+Aaron_Wolf,Aaron Wolf,0.3885,mismatch,different people
+Max_Brown,Max Brown,0.3885,ok,same person verified
+Max_Brown_(actor),Max Brown,0.3885,ok,same person verified
+Marco_De_Luca,Marco De Luca,0.3886,mismatch,different people
+David_Murray_(racing_driver),David Murray,0.3887,mismatch,different people
+Ángel_Fernández,Ángel Fernández,0.3889,mismatch,different people
+Ichiro_Suzuki_(footballer),Ichiro Suzuki,0.389,mismatch,different people
+Geir_Gulliksen,Geir Gulliksen,0.3891,mismatch,different people
+Jean_Cau_(rower),Jean Cau,0.3895,mismatch,different people
+Jason_McCartney_(cyclist),Jason McCartney,0.3899,mismatch,different people
+Jaroslav_Soukup,Jaroslav Soukup,0.3899,mismatch,different people
+Thierno_Diallo,Thierno Diallo,0.3899,mismatch,different people
+"Bert_Williams_(footballer,_born_1920)",Bert Williams,0.39,mismatch,different people
+Chris_Wood,Chris Wood,0.3906,mismatch,different people
+Kota_Mori,Kota Mori,0.3911,mismatch,different people
+Gunnar_Johansson_(footballer),Gunnar Johansson,0.3921,mismatch,different people
+Nobuo_Kawakami,Nobuo Kawakami,0.3922,mismatch,different people
+Ben_Foster,Ben Foster,0.3926,mismatch,different people
+Koji_Suzuki_(footballer),Koji Suzuki,0.3929,mismatch,different people
+Charles_Winslow,Charles Winslow,0.393,mismatch,different people
+Charles_Kieffer,Charles Kieffer,0.3939,mismatch,different people
+"Espen_Andersen_(skier,_born_1993)",Espen Andersen,0.394,mismatch,different people
+Alberto_Fernández_(sport_shooter),Alberto Fernández,0.3948,mismatch,different people
+Takashi_Miki,Takashi Miki,0.395,mismatch,different people
+Nils_Nilsson_(ice_hockey),Nils Nilsson,0.3952,mismatch,different people
+Henry_Taylor_(racing_driver),Henry Taylor,0.3956,mismatch,different people
+"Marie_of_Luxembourg,_Countess_of_Vendôme","Marie of Luxembourg, Countess of Vendôme",0.3958,mismatch,different people
+Chris_Löwe,Chris Löwe,0.3959,mismatch,different people
+Eric_Thompson_(racing_driver),Eric Thompson,0.3961,mismatch,different people
+Gabriele_Rossetti_(sport_shooter),Gabriele Rossetti,0.3963,mismatch,different people
+Sabrina_(Portuguese_singer),Sabrina,0.3965,mismatch,different people
+Jérôme_Thomas,Jérôme Thomas,0.3968,mismatch,different people
+"Charles_(footballer,_born_1984)",Charles,0.3977,mismatch,different people
+Hilarion_(Alfeyev),Hilarion,0.3979,mismatch,different people
+Rafael_Amador,Rafael Amador,0.398,mismatch,different people
+Glenn_Morris,Glenn Morris,0.3984,ok,same person verified
+Bengt_Nilsson_(athlete),Bengt Nilsson,0.3987,mismatch,different people
+Václav_Havel_(canoeist),Václav Havel,0.3991,mismatch,different people
+Mario_David,Mario David,0.3992,mismatch,different people
+Ana_Monteiro,Ana Monteiro,0.3993,mismatch,different people
+Chiaka_Ogbogu,Chiaka Ogbogu,0.3995,ok,same person verified
+Tang_Yi,Tang Yi,0.3999,mismatch,different people

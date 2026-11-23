@@ -1,0 +1,6 @@
+# Git for Windows converts line endings by default. The data files must stay byte-for-byte as they
+# were analysed, so no conversion on any platform.
+data/** -text
+features/** -text
+results/** -text
+expected/** -text
