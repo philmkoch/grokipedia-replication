@@ -1,9 +1,9 @@
-"""Fig. 1 (a, b, c) for v7, with the full population of 98,013 biographies as a reference group.
+"""Fig. 1 (a, b, c) for v8, with the full population of 98,013 biographies as a reference group.
 
     python fig1_reference.py DATA_DIR FEATURES_DIR NOV_DATA_DIR NOV_FEATURES_DIR OUT_DIR
 
 Same selection and definitions as paper_figures.py (February panel of US politicians, lean =
-con - lib, shift = GP - WP). Writes fig1_v7 (pdf, png); the symmetric-log x axis of the earlier
+con - lib, shift = GP - WP). Writes fig1_v9 (pdf, png), panel (a) in black since v8, legend in (b) since v9; the symmetric-log x axis of the earlier
 variant b is dropped. Also prints the
 numbers for all 98K and for 98K without the US politicians in party.parquet.
 """
@@ -20,7 +20,6 @@ import seaborn as sns
 
 SIDES = ['wp', 'gp']
 TEXTWIDTH = 418.26 / 72.27
-WP, GP = '#004488', '#DDAA33'
 DIFF, REF = '#777777', 'black'
 NEUTRAL = 1e-6
 
@@ -121,16 +120,15 @@ def draw(variant):
     y = 0.97
     text_axis.text(1, y, 'P(author supports conservatives)', ha='right', va='top', color=DIFF)
     y -= 1.35 * LINE
-    for side, color, label in [('wp', WP, 'Wikipedia'), ('gp', GP, 'Grokipedia')]:
+    for side, label in [('wp', 'Wikipedia'), ('gp', 'Grokipedia')]:
         row = dewine[side]
-        text_axis.text(0, y, label, color=color, ha='left', va='top')
+        text_axis.text(0, y, label, ha='left', va='top')
         lines = layout_words(figure, text_axis, row.sentence, TEXT_START, TEXT_END, 'A longstanding pro-life advocate')
         for number, line in enumerate(lines):
             for word, bold, x in line:
                 text_axis.text(x, y - number * LINE, word, va='top', ha='left',
                                fontfamily='cmb10' if bold else 'cmr10')
-        text_axis.text(1, y, f'{row.p_con:.6f}' if side == 'wp' else f'{row.p_con:.7f}', ha='right', va='top',
-                       color=color)
+        text_axis.text(1, y, f'{row.p_con:.6f}' if side == 'wp' else f'{row.p_con:.7f}', ha='right', va='top')
         y -= (len(lines) + 0.45) * LINE
 
     # (c) change in mean P(con) filled and P(lib) hollow, net shift as bracket
@@ -163,19 +161,16 @@ def draw(variant):
         shifts = np.sort(GROUPS[short].lean_shift.to_numpy())
         share = np.linspace(100, 0, len(shifts), endpoint=False)
         style = {'rep': ('-', 1.2, DIFF), 'dem': ('--', 1.2, DIFF), 'all': (':', 1.2, REF)}[short]
-        curve_axis.step(shifts, share, where='post', color=style[2], ls=style[0], lw=style[1])
-        if short == 'all':
-            continue  # the reference curve gets no marker
+        label = {'rep': 'Republicans', 'dem': 'Democrats', 'all': 'All'}[short]
+        curve_axis.step(shifts, share, where='post', color=style[2], ls=style[0], lw=style[1], label=label)
         value = stats[short]['right']
         curve_axis.plot(0, value, 'o', color=style[2], ms=4)
         offset, ha = {'rep': ((5, 3), 'left'), 'dem': ((-5, -4), 'right'), 'all': ((5, -5), 'left')}[short]
         curve_axis.annotate(f'{value:.0f}%', (0, value), xytext=offset, textcoords='offset points',
                             ha=ha, va='center', color=style[2])
     if variant == 'a':
-        curve_axis.text(0.15, 80, 'Republicans', color=DIFF, ha='left', va='center')
-        curve_axis.text(-0.02, 10, 'Democrats', color=DIFF, ha='right', va='center')
-        curve_axis.text(0.02, 20, 'All', color=REF, ha='left', va='center')
-        curve_axis.set(xlim=(-0.35, 0.5), xticks=[-0.25, 0, 0.25, 0.5])
+        curve_axis.legend(loc='lower left', frameon=False, fontsize=8, handlelength=1.5, handletextpad=0.4, borderaxespad=0.2, labelspacing=0.3)
+        curve_axis.set(xlim=(-0.47, 0.5), xticks=[-0.25, 0, 0.25, 0.5])
     else:
         curve_axis.set_xscale('symlog', linthresh=1e-3, linscale=0.5)
         curve_axis.set(xlim=(-0.5, 0.5), xticks=[-0.1, -0.01, 0, 0.01, 0.1],
@@ -187,7 +182,7 @@ def draw(variant):
                    ylim=(0, 100), yticks=range(0, 101, 25))
     curve_axis.axvline(0, color=REF, lw=0.8)
     curve_axis.set_title('(b)', loc='left')
-    name = 'fig1_v7'
+    name = 'fig1_v9'
     figure.savefig(out_dir / f'{name}.pdf')
     figure.savefig(out_dir / f'{name}.png', dpi=300)
     plt.close(figure)

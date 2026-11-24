@@ -31,10 +31,10 @@ STEPS = {
 
 
 def collect_figures():
-    """Fig. 1 is fig1_v7 (the one with the 98,013 biographies as reference), Fig. 2 is fig2."""
+    """Fig. 1 is fig1_v9 (the one with the 98,013 biographies as reference), Fig. 2 is fig2."""
     figures = ROOT / 'out' / 'figures'
     figures.mkdir(parents=True, exist_ok=True)
-    for source, target in [('fig1_v7', 'fig1'), ('fig2', 'fig2')]:
+    for source, target in [('fig1_v9', 'fig1'), ('fig2', 'fig2')]:
         for extension in ['pdf', 'png']:
             shutil.copy(ROOT / 'out' / 'paper' / f'{source}.{extension}', figures / f'{target}.{extension}')
 
