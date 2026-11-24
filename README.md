@@ -1,6 +1,6 @@
 # Replication package: Grokipedia stretches the US political spectrum
 
-Code and data for the article by Philipp Koch and Alexander Posztos. We compare Wikipedia and Grokipedia
+Code and data for the article by Philipp Koch and Alexander Posztos, building upon the repository by Alexander (https://github.com/alexander-posztos/grokipedia-bias). We compare Wikipedia and Grokipedia
 biographies of 1,614 Democratic and Republican politicians, with 98,013 paired biographies of notable people as a
 reference group. One script recreates the figures and statistics of the article and checks them against the
 manuscript.
